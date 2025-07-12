@@ -1,34 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ashiq Mehmood</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Blockchain
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: ashiqmehmood60@gmail.com
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/ashiqmehmood60">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-   <a href="https://www.instagram.com/1_percent_tech">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/ashiqmehmood">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/ashiqmehmood">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# Hi 👋, I'm Ashiq Mehmood 
+📊 **Computer Science Student** | 🔍 **Blockchain Developer** | 💻 **Flutter Developer** | **Machine Learning Learner** 
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+I am a **Computer Science student**  at the **Institute of Management Sciences, Peshawar**.  
+Passionate about exploring  and developing innovative solutions, I have worked on various projects applying my knowledge in **Python, Flutter, Java, Dart ,Postgresql**.  
 
-![Ashiq Mehmood GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqmehmood60&show_icons=true&theme=dark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqmehmood60&theme=dark)
+## 📌 About Me  
+- 🎯 **Computer Science Student**: 
+- 💡 **Machine Learning Learner**: Exploring **scikit-learn, regression models, and evaluation metrics**.  
+- 💻 **Flutter Developer**: Developed multiple **Cross plattform apps using Flutter**.  
+- 🛢 **Database Integration**: Worked with **MySQL and PostgreSQL** for backend development.  
+- 🛠 **Tech Stack**: Python, Java, SQL,  Dart,  Assembly, CMD/Batch Scripting.  
+
+---
+## 🚀 Projects  
+
+### 🔹 **Mobile App Development (Flutter)**  
+- **Gemini AI Chatbot App (Personal Project)**  
+  - Developed a **chatbot app** powered by **Google’s Gemini AI API** using **Flutter**.  
+  - Implemented **dynamic response rendering**, user input handling, and interactive conversation UI.  
+  - *Reason:* Built this project to explore AI integration and learn how to connect real-world APIs with mobile frontends.  
+  - Strengthened skills in **API fetching**, **JSON parsing**, and real-time UI updates.
+
+---
+
+## 🏆 Leadership & Volunteering  
+- 🏅 Assisted classmates in **SQL-Python, NetBeans integration**.  
+- 🎯 Led and managed **all semester projects**, ensuring timely completion.  
+ 
+
+---
+
+## 🛠 Languages & Tools  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/getx/getx-icon.svg" alt="GetX" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>  
+</p>
 
 
-<br>
-⭐️ From [ashiqmehmood](https://github.com/ashiqmehmood60)
+---
+
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiqmehmood60&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>  
+</p>  
+
+---
+
+## 📬 Connect With Me  
+- **LinkedIn**: [www.linkedin.com/in/ashiqmehmood](https://www.linkedin.com/in/AshiqMehmood)  
+- **Email**: ashiqmehmood60@gmail.com | ashiqmehmood@gmail.com  
