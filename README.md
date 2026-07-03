@@ -1,14 +1,14 @@
 
 # Hi 👋, I'm Ashiq Mehmood 
-📊 **Computer Science Student** | 🔍 **Blockchain Developer** | 💻 **Flutter Developer** | **Machine Learning Learner** 
+📊 **Computer Science Graduate** | 💻 **Flutter Developer** | **Machine Learning Learner** 
 
-I am a **Computer Science student**  at the **Institute of Management Sciences, Peshawar**.  
-Passionate about exploring  and developing innovative solutions, I have worked on various projects applying my knowledge in **Python, Flutter, Java, Dart ,Postgresql**.  
+I am a **Computer Science graduate**  from the **Institute of Management Sciences, Peshawar**.  
+Passionate about exploring  and developing innovative solutions, I have worked on various projects applying my knowledge in **Python, Flutter, Java, Dart ,Postgresql , machine learning**.  
 
 ---
 
 ## 📌 About Me  
-- 🎯 **Computer Science Student**: 
+- 🎯 **Computer Scientist**: 
 - 💡 **Machine Learning Learner**: Exploring **scikit-learn, regression models, and evaluation metrics**.  
 - 💻 **Flutter Developer**: Developed multiple **Cross plattform apps using Flutter**.  
 - 🛢 **Database Integration**: Worked with **MySQL and PostgreSQL** for backend development.  
